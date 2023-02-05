@@ -1,0 +1,6 @@
+node_modules/
+tmp/
+.env
+pnpm-lock.yaml
+user-config.json
+history.jsonl
